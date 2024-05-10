@@ -1,0 +1,12 @@
+h1{
+    color: orange;
+    font-family: sans-serif;
+}
+p{
+    font-size: 40px;
+    background-color: azure;
+}
+div{
+    margin: 20px;
+    padding: 5px;
+}
